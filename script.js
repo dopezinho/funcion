@@ -6,4 +6,5 @@ function presentinho (bufunfa, quantoe) {
     }
 }
 
-presentinho(50, 90)
+let vem = presentinho(10, 90)
+console.log(vem)
